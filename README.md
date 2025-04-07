@@ -9,4 +9,4 @@ Email: matteo.mio@ens-lyon.fr
 
 Some recent preprints:
 
-- M.Mio, "Compact Quantitative Theories of Convex Algebras", Submitted to MFPS 2025. [PREPRINT][./preprints/MFPS2025.pdf]
+- M.Mio, "Compact Quantitative Theories of Convex Algebras", Submitted to MFPS 2025. [Preprint.](https://github.com/miomatteo/miomatteo/blob/main/preprints/MFPS2025.pdf)
